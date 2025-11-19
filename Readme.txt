@@ -1,1 +1,1 @@
-Transcending Language Boundaries: Interpretable Multi-Scenario Pharmacodynamics of Drug Interactions via MIRA2drug
+A Retrieval-Augmented and Pre-trained Model Powered Pharmacodynamic Framework for Multi-Scenario Drug Interaction Prediction
