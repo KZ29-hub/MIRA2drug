@@ -1,4 +1,4 @@
-![image](https://github.com/KZ29-hub/MIRA2drug/blob/main/Graph/Cover/MIRA2drug.jpg)
+<img src="https://github.com/KZ29-hub/MIRA2drug/blob/main/Graph/Cover/MIRA2drug.jpg" alt="MIRA2drug Cover" width="50%">
 
 Transcending Language Boundaries: Interpretable Multi-Scenario Pharmacodynamics of Drug Interactions via MIRA2drug
 
