@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KZ29-hub/MIRA2drug/blob/main/Graph/Cover/MIRA2drug.jpg?raw=true" alt="MIRA2drug Cover" width="50%">
+  <img src="https://github.com/KZ29-hub/MIRA2drug/blob/main/Graph/Cover/MIRA2drug.png?raw=true" alt="MIRA2drug Cover" width="50%">
 </p>
 
 Transcending Language Boundaries: Interpretable Multi-Scenario Pharmacodynamics of Drug Interactions via MIRA2drug
